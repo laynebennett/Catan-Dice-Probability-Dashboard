@@ -1,6 +1,8 @@
+All code courtesy of Claude.ai
+
 # 🎲 2d6 Distribution Tracker
 
-An interactive browser-based tool for tracking the results of two-dice rolls and visualizing how your observed results compare to the theoretical bell curve distribution.
+A webpage for tracking the probability of dice rolls and comparing it to expected data. Perfect for settling Catan disputes about luck. Loosely based off Colonist dice results.
 
 ---
 
